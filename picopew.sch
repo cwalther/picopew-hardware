@@ -204,26 +204,26 @@
 <wire x1="-9.21" y1="9.21" x2="-9.21" y2="-9.21" width="0.1524" layer="21"/>
 </package>
 <package name="TINYPICO">
-<pad name="23" x="0" y="0" drill="0.9" diameter="1.6"/>
-<pad name="19" x="2.54" y="0" drill="0.9" diameter="1.6"/>
-<pad name="18" x="5.08" y="0" drill="0.9" diameter="1.6"/>
-<pad name="5" x="7.62" y="0" drill="0.9" diameter="1.6"/>
-<pad name="22" x="10.16" y="0" drill="0.9" diameter="1.6"/>
-<pad name="21" x="12.7" y="0" drill="0.9" diameter="1.6"/>
-<pad name="32" x="15.24" y="0" drill="0.9" diameter="1.6"/>
-<pad name="33" x="17.78" y="0" drill="0.9" diameter="1.6"/>
-<pad name="RST" x="20.32" y="0" drill="0.9" diameter="1.6"/>
-<pad name="GND2" x="22.86" y="0" drill="0.9" diameter="1.6"/>
-<pad name="BAT" x="0" y="15.24" drill="0.9" diameter="1.6"/>
-<pad name="GND1" x="2.54" y="15.24" drill="0.9" diameter="1.6"/>
-<pad name="5V" x="5.08" y="15.24" drill="0.9" diameter="1.6"/>
-<pad name="3V3" x="7.62" y="15.24" drill="0.9" diameter="1.6"/>
-<pad name="4" x="10.16" y="15.24" drill="0.9" diameter="1.6"/>
-<pad name="14" x="12.7" y="15.24" drill="0.9" diameter="1.6"/>
-<pad name="15" x="15.24" y="15.24" drill="0.9" diameter="1.6"/>
-<pad name="27" x="17.78" y="15.24" drill="0.9" diameter="1.6"/>
-<pad name="26" x="20.32" y="15.24" drill="0.9" diameter="1.6"/>
-<pad name="25" x="22.86" y="15.24" drill="0.9" diameter="1.6"/>
+<pad name="23" x="0" y="0" drill="1" diameter="1.6"/>
+<pad name="19" x="2.54" y="0" drill="1" diameter="1.6"/>
+<pad name="18" x="5.08" y="0" drill="1" diameter="1.6"/>
+<pad name="5" x="7.62" y="0" drill="1" diameter="1.6"/>
+<pad name="22" x="10.16" y="0" drill="1" diameter="1.6"/>
+<pad name="21" x="12.7" y="0" drill="1" diameter="1.6"/>
+<pad name="32" x="15.24" y="0" drill="1" diameter="1.6"/>
+<pad name="33" x="17.78" y="0" drill="1" diameter="1.6"/>
+<pad name="RST" x="20.32" y="0" drill="1" diameter="1.6"/>
+<pad name="GND2" x="22.86" y="0" drill="1" diameter="1.6"/>
+<pad name="BAT" x="0" y="15.24" drill="1" diameter="1.6"/>
+<pad name="GND1" x="2.54" y="15.24" drill="1" diameter="1.6"/>
+<pad name="5V" x="5.08" y="15.24" drill="1" diameter="1.6"/>
+<pad name="3V3" x="7.62" y="15.24" drill="1" diameter="1.6"/>
+<pad name="4" x="10.16" y="15.24" drill="1" diameter="1.6"/>
+<pad name="14" x="12.7" y="15.24" drill="1" diameter="1.6"/>
+<pad name="15" x="15.24" y="15.24" drill="1" diameter="1.6"/>
+<pad name="27" x="17.78" y="15.24" drill="1" diameter="1.6"/>
+<pad name="26" x="20.32" y="15.24" drill="1" diameter="1.6"/>
+<pad name="25" x="22.86" y="15.24" drill="1" diameter="1.6"/>
 <wire x1="-1.3716" y1="16.51" x2="30.48" y2="16.51" width="0.15" layer="21"/>
 <wire x1="30.48" y1="16.51" x2="30.48" y2="-1.27" width="0.15" layer="21"/>
 <wire x1="30.48" y1="-1.27" x2="-1.3716" y2="-1.27" width="0.15" layer="21"/>
@@ -328,7 +328,7 @@
 <smd name="CASE@4" x="3.75" y="-0.965" dx="1.2" dy="0.8" layer="1"/>
 </package>
 <package name="SINGLEPAD">
-<pad name="1" x="0" y="0" drill="0.9" diameter="1.6"/>
+<pad name="1" x="0" y="0" drill="1" diameter="1.6"/>
 </package>
 </packages>
 <symbols>
