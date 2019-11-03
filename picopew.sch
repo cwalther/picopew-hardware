@@ -172,35 +172,35 @@
 <smd name="49" x="0" y="0" dx="4.11" dy="4.11" layer="1"/>
 </package>
 <package name="KYX-788AHG">
-<pad name="1" x="-7.62" y="-8.75" drill="0.8" diameter="1.1"/>
+<pad name="1" x="-7.62" y="-8.9" drill="0.8" diameter="1.1"/>
 <pad name="2" x="-7.5" y="-6" drill="0.8" diameter="1.1"/>
 <pad name="3" x="-7.5" y="-3.6" drill="0.8" diameter="1.1"/>
 <pad name="4" x="-7.5" y="-1.2" drill="0.8" diameter="1.1"/>
 <pad name="5" x="-7.5" y="1.2" drill="0.8" diameter="1.1"/>
 <pad name="6" x="-7.5" y="3.6" drill="0.8" diameter="1.1"/>
 <pad name="7" x="-7.5" y="6" drill="0.8" diameter="1.1"/>
-<pad name="8" x="-7.62" y="8.75" drill="0.8" diameter="1.1"/>
-<pad name="9" x="0" y="-8.75" drill="0.8" diameter="1.1"/>
+<pad name="8" x="-7.62" y="8.9" drill="0.8" diameter="1.1"/>
+<pad name="9" x="0" y="-8.9" drill="0.8" diameter="1.1"/>
 <pad name="10" x="0" y="-6" drill="0.8" diameter="1.1"/>
 <pad name="11" x="0" y="-3.6" drill="0.8" diameter="1.1"/>
 <pad name="12" x="0" y="-1.2" drill="0.8" diameter="1.1"/>
 <pad name="13" x="0" y="1.2" drill="0.8" diameter="1.1"/>
 <pad name="14" x="0" y="3.6" drill="0.8" diameter="1.1"/>
 <pad name="15" x="0" y="6" drill="0.8" diameter="1.1"/>
-<pad name="16" x="0" y="8.75" drill="0.8" diameter="1.1"/>
-<pad name="17" x="7.62" y="-8.75" drill="0.8" diameter="1.1"/>
+<pad name="16" x="0" y="8.9" drill="0.8" diameter="1.1"/>
+<pad name="17" x="7.62" y="-8.9" drill="0.8" diameter="1.1"/>
 <pad name="18" x="7.5" y="-6" drill="0.8" diameter="1.1"/>
 <pad name="19" x="7.5" y="-3.6" drill="0.8" diameter="1.1"/>
 <pad name="20" x="7.5" y="-1.2" drill="0.8" diameter="1.1"/>
 <pad name="21" x="7.5" y="1.2" drill="0.8" diameter="1.1"/>
 <pad name="22" x="7.5" y="3.6" drill="0.8" diameter="1.1"/>
 <pad name="23" x="7.5" y="6" drill="0.8" diameter="1.1"/>
-<pad name="24" x="7.62" y="8.75" drill="0.8" diameter="1.1"/>
+<pad name="24" x="7.62" y="8.9" drill="0.8" diameter="1.1"/>
 <wire x1="-10" y1="10" x2="10" y2="10" width="0.1524" layer="21"/>
 <wire x1="10" y1="10" x2="10" y2="-10" width="0.1524" layer="21"/>
 <wire x1="10" y1="-10" x2="-10" y2="-10" width="0.1524" layer="21"/>
 <wire x1="-10" y1="-10" x2="-10" y2="10" width="0.1524" layer="21"/>
-<circle x="-7.62" y="-8.75" radius="0.8" width="0.1524" layer="21"/>
+<circle x="-7.62" y="-8.9" radius="0.8" width="0.1524" layer="21"/>
 <wire x1="-9.21" y1="9.21" x2="-9.21" y2="-9.21" width="0.1524" layer="21"/>
 </package>
 <package name="TINYPICO">
